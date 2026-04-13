@@ -1,0 +1,24 @@
+#!/bin/bash
+
+echo 'BASH='$BASH
+echo 'BASH_VERSION='$BASH_VERSION
+echo 'HOSTNAME='$HOSTNAME
+echo 'TERM='$TERM
+echo 'SHELL='$SHELL
+echo 'HISTSIZE='$HISTSIZE
+echo 'SSH_CLIENT='$SSH_CLIENT
+echo 'QTDIR='$QTDIR
+echo 'QTINC='$QTINC
+echo 'SSH_TTY='$SSH_TTY
+echo 'RE_HOME='$JRE_HOME
+echo 'USER='$USER
+echo 'LS_COLORS='$LS_COLORS
+echo 'TMOUT='$TMOUT
+echo 'MAIL='$MAIL
+echo 'PATH='$PATH
+echo 'PWD='$PWD
+echo 'JAVA_HOME='$JAVA_HOME
+echo 'LANG='$LANG
+echo 'SSH_ASKPASS='$SSH_ASKPASS
+echo 'HISTCONTROL='$HISTCONTROL
+
